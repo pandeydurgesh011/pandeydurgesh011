@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Family Generation Map**
 
-- 🌱 I’m currently learning **Low Level Designing**
+- 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **pandeydurgesh011@gmail.com**
 
